@@ -1,0 +1,25 @@
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\DataContext\obj\Debug\DataContext.csprojResolveAssemblyReference.cache
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\DataContext\obj\Debug\DataContext.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\DataContext\bin\Debug\DataContext.dll.config
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\DataContext\bin\Debug\DataContext.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\DataContext\bin\Debug\DataContext.pdb
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\DataContext\bin\Debug\EntityFramework.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\DataContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\DataContext\bin\Debug\EntityFramework.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\DataContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\DataContext\obj\Debug\DataContext.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\DataContext\obj\Debug\DataContext.pdb
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\DataContext\obj\Debug\DataContext.Migrations.Initial.resources
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\DataContext\obj\Debug\DataContext.csproj.GenerateResource.Cache
+E:\Disertatie\UniLibraryCRM\DataContext\bin\Debug\DataContext.dll.config
+E:\Disertatie\UniLibraryCRM\DataContext\bin\Debug\DataContext.dll
+E:\Disertatie\UniLibraryCRM\DataContext\bin\Debug\DataContext.pdb
+E:\Disertatie\UniLibraryCRM\DataContext\bin\Debug\EntityFramework.dll
+E:\Disertatie\UniLibraryCRM\DataContext\bin\Debug\EntityFramework.SqlServer.dll
+E:\Disertatie\UniLibraryCRM\DataContext\bin\Debug\EntityFramework.xml
+E:\Disertatie\UniLibraryCRM\DataContext\bin\Debug\EntityFramework.SqlServer.xml
+E:\Disertatie\UniLibraryCRM\DataContext\obj\Debug\DataContext.csprojResolveAssemblyReference.cache
+E:\Disertatie\UniLibraryCRM\DataContext\obj\Debug\DataContext.dll
+E:\Disertatie\UniLibraryCRM\DataContext\obj\Debug\DataContext.pdb
+E:\Disertatie\UniLibraryCRM\DataContext\obj\Debug\DataContext.Migrations.Initial.resources
+E:\Disertatie\UniLibraryCRM\DataContext\obj\Debug\DataContext.csproj.GenerateResource.Cache

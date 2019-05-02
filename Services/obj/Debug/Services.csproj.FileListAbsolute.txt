@@ -1,0 +1,6 @@
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\Services\bin\Debug\Services.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\Services\bin\Debug\Services.pdb
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\Services\obj\Debug\Services.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\Services\obj\Debug\Services.pdb

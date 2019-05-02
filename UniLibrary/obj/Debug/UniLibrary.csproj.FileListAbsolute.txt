@@ -1,0 +1,329 @@
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\ApplicationInsights.config
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\csc.exe
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\csc.exe.config
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\csc.rsp
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\csi.exe
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\csi.exe.config
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\csi.rsp
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.AppContext.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.Console.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.IO.Compression.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.Security.Claims.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.ValueTuple.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\vbc.exe
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\vbc.exe.config
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\vbc.rsp
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\UniLibrary.dll.config
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\UniLibrary.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\UniLibrary.pdb
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Antlr3.Runtime.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\EntityFramework.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\EntityFramework.SqlServer.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.AI.Web.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.Owin.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.Owin.Security.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Newtonsoft.Json.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Owin.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Web.Helpers.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Web.Mvc.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Web.Optimization.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Web.Razor.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Web.WebPages.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Web.WebPages.Razor.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\WebGrease.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Web.Helpers.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Web.Mvc.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Web.Optimization.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Web.Razor.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Web.WebPages.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Web.WebPages.Razor.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Antlr3.Runtime.pdb
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Newtonsoft.Json.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\EntityFramework.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\EntityFramework.SqlServer.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.Owin.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.Owin.Security.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.AI.Web.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\obj\Debug\UniLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\obj\Debug\UniLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\obj\Debug\UniLibrary.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\obj\Debug\UniLibrary.pdb
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Autofac.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\DataContext.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Repository.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\SimpleInjector.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\DataContext.pdb
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\DataContext.dll.config
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Repository.pdb
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Autofac.pdb
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Autofac.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\SimpleInjector.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Ninject.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Ninject.Web.Common.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Ninject.Web.Mvc.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Ninject.Web.WebApi.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Ninject.Web.WebApi.WebHost.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Net.Http.Formatting.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Web.Http.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Web.Http.WebHost.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\WebActivatorEx.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Ninject.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Ninject.Web.Common.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Ninject.Web.Mvc.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Ninject.Web.WebApi.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Ninject.Web.WebApi.WebHost.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Net.Http.Formatting.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Web.Http.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Web.Http.WebHost.xml
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\CommonServiceLocator.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Unity.Abstractions.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Unity.Configuration.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Unity.Container.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Unity.Interception.Configuration.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Unity.Interception.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Unity.Mvc5.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Unity.RegistrationByConvention.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Unity.ServiceLocation.dll
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\CommonServiceLocator.pdb
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Unity.Abstractions.pdb
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Unity.Configuration.pdb
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Unity.Container.pdb
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Unity.Interception.pdb
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Unity.Interception.Configuration.pdb
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Unity.RegistrationByConvention.pdb
+C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\UniLibrary\bin\Unity.ServiceLocation.pdb
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\ApplicationInsights.config
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\csc.exe
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\csc.exe.config
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\csc.rsp
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\csi.exe
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\csi.exe.config
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\csi.rsp
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.AppContext.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.Collections.Immutable.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.Console.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.Diagnostics.Process.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.IO.Compression.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.IO.FileSystem.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.IO.Pipes.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.Reflection.Metadata.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.Security.AccessControl.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.Security.Claims.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.Threading.Thread.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.ValueTuple.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.Xml.XPath.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\vbc.exe
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\vbc.exe.config
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\vbc.rsp
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\VBCSCompiler.exe
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\roslyn\VBCSCompiler.exe.config
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\UniLibrary.dll.config
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\UniLibrary.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\UniLibrary.pdb
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Antlr3.Runtime.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Autofac.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\CommonServiceLocator.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\DataContext.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\EntityFramework.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\EntityFramework.SqlServer.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.AI.DependencyCollector.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.AI.Web.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.AI.WindowsServer.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.ApplicationInsights.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.Owin.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.Owin.Security.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.Owin.Security.Google.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.Web.Infrastructure.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Newtonsoft.Json.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Ninject.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Ninject.Web.Common.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Ninject.Web.Common.WebHost.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Ninject.Web.Mvc.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Ninject.Web.WebApi.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Ninject.Web.WebApi.WebHost.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Owin.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Repository.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\SimpleInjector.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Net.Http.Formatting.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Web.Helpers.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Web.Http.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Web.Http.WebHost.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Web.Mvc.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Web.Optimization.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Web.Razor.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Web.WebPages.Deployment.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Web.WebPages.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Web.WebPages.Razor.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Unity.Abstractions.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Unity.Configuration.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Unity.Container.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Unity.Interception.Configuration.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Unity.Interception.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Unity.Mvc5.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Unity.RegistrationByConvention.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Unity.ServiceLocation.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\WebActivatorEx.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\WebGrease.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\DataContext.pdb
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\DataContext.dll.config
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Repository.pdb
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Autofac.pdb
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Autofac.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\CommonServiceLocator.pdb
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Ninject.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Ninject.Web.Common.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Ninject.Web.Common.WebHost.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Ninject.Web.Mvc.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Ninject.Web.WebApi.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Ninject.Web.WebApi.WebHost.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\SimpleInjector.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Net.Http.Formatting.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Web.Http.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Web.Http.WebHost.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Web.Helpers.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Web.Mvc.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Web.Optimization.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Web.Razor.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Web.WebPages.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Web.WebPages.Deployment.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\System.Web.WebPages.Razor.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Unity.Abstractions.pdb
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Unity.Configuration.pdb
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Unity.Container.pdb
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Unity.Interception.pdb
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Unity.Interception.Configuration.pdb
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Unity.RegistrationByConvention.pdb
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Unity.ServiceLocation.pdb
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Antlr3.Runtime.pdb
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Newtonsoft.Json.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\EntityFramework.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\EntityFramework.SqlServer.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.Owin.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.Owin.Security.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.Owin.Security.Google.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.ApplicationInsights.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.AI.DependencyCollector.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.AI.WindowsServer.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\bin\Microsoft.AI.Web.xml
+E:\Disertatie\UniLibraryCRM\UniLibrary\obj\Debug\UniLibrary.csprojResolveAssemblyReference.cache
+E:\Disertatie\UniLibraryCRM\UniLibrary\obj\Debug\UniLibrary.dll
+E:\Disertatie\UniLibraryCRM\UniLibrary\obj\Debug\UniLibrary.pdb

@@ -4,11 +4,13 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace DataContext.Entities
 {
-    public class Book : Entity
+    public class Book : IEntity
     {
+        public int Id { get; set; }
+
         public string Title { get; set; }
         public string Description { get; set; }
-        public DateTime ReleaseDate { get; set; }
+        public int Release { get; set; }
 
 
         public int GenreId { get; set; }
@@ -21,5 +23,6 @@ namespace DataContext.Entities
         public virtual Author Author { get; set; }
 
         public ICollection<Review> Reviews { get; set; }
+       
     }
 }

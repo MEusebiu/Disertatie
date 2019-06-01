@@ -3,9 +3,9 @@ using System.Data.Entity;
 
 namespace DataContext.Context
 {
-    class UniLibraryDbContext : DbContext
+    public class UniLibraryDbContext : DbContext
     {
-        public UniLibraryDbContext() : base("name=UniversityDB")
+        public UniLibraryDbContext() : base("name=UniversityDb")
         {   }
 
         public DbSet<Book> Books { get; set; }
@@ -14,5 +14,8 @@ namespace DataContext.Context
         public DbSet<Review> Reviews { get; set; }
         public DbSet<User> Users { get; set; }
         public DbSet<UserBook> UserBooks { get; set; }
+        public DbSet<GenreBookLink> GenreBookLink { get; set; }
+        public DbSet<AuthorBookLink> AuthorBookLink { get; set; }
+        public DbSet<Role> Role { get; set; }
     }
 }

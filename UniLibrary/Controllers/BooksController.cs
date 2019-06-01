@@ -1,34 +1,79 @@
 ﻿using DataContext.Entities;
-using Repository.Abstract;
+using Services.Abstract;
 using System.Web.Mvc;
 
 namespace UniLibrary.Controllers
-{
+{ 
     public class BooksController : Controller
     {
-        private readonly IBookRepository bookRepo;
+        private IBookService bookService;
+        private IGenreService genreService;
+        private IAuthorService authorService;
 
-        public BooksController(IBookRepository bookRepo)
+        public BooksController(IBookService bookService, IGenreService genreService, IAuthorService authorService)
         {
-            this.bookRepo = bookRepo;
+            this.bookService = bookService;
+            this.genreService = genreService;
+            this.authorService = authorService;
         }
         // GET: Books
         public ActionResult Index()
-        { 
-            return View();
+        {
+            var books = bookService.GetAllBooks();
+            return View(books);
         }
 
+        public ActionResult Create()
+        {
+            var book = new Book();
+
+            ViewBag.Genres = genreService.GetAllGenres();
+            ViewBag.Authors = authorService.GetAllAuthors();
+
+            return View(book);
+        }
+
+        [HttpPost]
         public ActionResult Create(Book book)
         {
             if (ModelState.IsValid)
             {
-                //create add method in service and repo
+                bookService.AddBook(book);
                 return RedirectToAction("Index");
             }
             else
             {
                 return View(book);
             }
+        }
+
+        public ActionResult Edit(int bookId)
+        {
+            var book = bookService.FindBookById(bookId);
+            return View(book);
+        }
+
+        [HttpPost]
+        public ActionResult Edit(Book book)
+        {
+            if (ModelState.IsValid)
+            {
+                bookService.UpdateBook(book);
+                return RedirectToAction("Index");
+            }
+            else
+            {
+                return View(book);
+            }
+        }
+
+        [HttpPost]
+        public ActionResult Delete(int bookId)
+        {
+            var book = bookService.FindBookById(bookId);
+            bookService.DeleteBook(book);
+
+            return RedirectToAction("Index");
         }
     }
 }

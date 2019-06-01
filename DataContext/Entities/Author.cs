@@ -1,9 +1,12 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 
 namespace DataContext.Entities
 {
-    public class Author : Entity
+    public class Author : IEntity
     {
+        public int Id { get; set; }
+
         public string FirstName { get; set; }
         public string LastName { get; set; }
 

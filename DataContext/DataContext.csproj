@@ -49,16 +49,26 @@
   <ItemGroup>
     <Compile Include="Context\UniLibraryDbContext.cs" />
     <Compile Include="Entities\Author.cs" />
+    <Compile Include="Entities\AuthorBookLink.cs" />
     <Compile Include="Entities\Book.cs" />
-    <Compile Include="Entities\Entity.cs" />
+    <Compile Include="Entities\GenreBookLink.cs" />
+    <Compile Include="Entities\IEntity.cs" />
     <Compile Include="Entities\Genre.cs" />
     <Compile Include="Entities\Review.cs" />
     <Compile Include="Entities\Role.cs" />
     <Compile Include="Entities\User.cs" />
     <Compile Include="Entities\UserBook.cs" />
-    <Compile Include="Migrations\201905011856380_Initial.cs" />
-    <Compile Include="Migrations\201905011856380_Initial.Designer.cs">
-      <DependentUpon>201905011856380_Initial.cs</DependentUpon>
+    <Compile Include="Migrations\201905281727166_Initial.cs" />
+    <Compile Include="Migrations\201905281727166_Initial.Designer.cs">
+      <DependentUpon>201905281727166_Initial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905281730086_Added2LinkTables.cs" />
+    <Compile Include="Migrations\201905281730086_Added2LinkTables.Designer.cs">
+      <DependentUpon>201905281730086_Added2LinkTables.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905281749073_AddedRolesToModels.cs" />
+    <Compile Include="Migrations\201905281749073_AddedRolesToModels.Designer.cs">
+      <DependentUpon>201905281749073_AddedRolesToModels.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -68,8 +78,14 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201905011856380_Initial.resx">
-      <DependentUpon>201905011856380_Initial.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201905281727166_Initial.resx">
+      <DependentUpon>201905281727166_Initial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905281730086_Added2LinkTables.resx">
+      <DependentUpon>201905281730086_Added2LinkTables.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905281749073_AddedRolesToModels.resx">
+      <DependentUpon>201905281749073_AddedRolesToModels.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -2,8 +2,10 @@
 
 namespace DataContext.Entities
 {
-    public class Review : Entity
+    public class Review : IEntity
     {
+        public int Id { get; set; }
+
         public string Comment { get; set; }
 
         public int UserId { get; set; }

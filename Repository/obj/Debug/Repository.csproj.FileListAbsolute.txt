@@ -19,3 +19,11 @@ E:\Disertatie\UniLibraryCRM\Repository\bin\Debug\EntityFramework.xml
 E:\Disertatie\UniLibraryCRM\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
 E:\Disertatie\UniLibraryCRM\Repository\obj\Debug\Repository.dll
 E:\Disertatie\UniLibraryCRM\Repository\obj\Debug\Repository.pdb
+E:\Disertatie\UniProject\Repository\bin\Debug\Repository.dll
+E:\Disertatie\UniProject\Repository\bin\Debug\Repository.pdb
+E:\Disertatie\UniProject\Repository\bin\Debug\DataContext.dll
+E:\Disertatie\UniProject\Repository\bin\Debug\DataContext.pdb
+E:\Disertatie\UniProject\Repository\bin\Debug\DataContext.dll.config
+E:\Disertatie\UniProject\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\Disertatie\UniProject\Repository\obj\Debug\Repository.dll
+E:\Disertatie\UniProject\Repository\obj\Debug\Repository.pdb

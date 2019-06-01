@@ -23,3 +23,16 @@ E:\Disertatie\UniLibraryCRM\DataContext\obj\Debug\DataContext.dll
 E:\Disertatie\UniLibraryCRM\DataContext\obj\Debug\DataContext.pdb
 E:\Disertatie\UniLibraryCRM\DataContext\obj\Debug\DataContext.Migrations.Initial.resources
 E:\Disertatie\UniLibraryCRM\DataContext\obj\Debug\DataContext.csproj.GenerateResource.Cache
+E:\Disertatie\UniProject\DataContext\bin\Debug\DataContext.dll.config
+E:\Disertatie\UniProject\DataContext\bin\Debug\DataContext.dll
+E:\Disertatie\UniProject\DataContext\bin\Debug\DataContext.pdb
+E:\Disertatie\UniProject\DataContext\bin\Debug\EntityFramework.dll
+E:\Disertatie\UniProject\DataContext\bin\Debug\EntityFramework.SqlServer.dll
+E:\Disertatie\UniProject\DataContext\bin\Debug\EntityFramework.xml
+E:\Disertatie\UniProject\DataContext\bin\Debug\EntityFramework.SqlServer.xml
+E:\Disertatie\UniProject\DataContext\obj\Debug\DataContext.Migrations.Initial.resources
+E:\Disertatie\UniProject\DataContext\obj\Debug\DataContext.Migrations.Added2LinkTables.resources
+E:\Disertatie\UniProject\DataContext\obj\Debug\DataContext.Migrations.AddedRolesToModels.resources
+E:\Disertatie\UniProject\DataContext\obj\Debug\DataContext.csproj.GenerateResource.Cache
+E:\Disertatie\UniProject\DataContext\obj\Debug\DataContext.dll
+E:\Disertatie\UniProject\DataContext\obj\Debug\DataContext.pdb

@@ -2,8 +2,10 @@
 
 namespace DataContext.Entities
 {
-    public class UserBook : Entity
+    public class UserBook : IEntity
     {
+        public int Id { get; set; }
+
         public int UserId { get; set; }
         [ForeignKey("UserId")]
         public User User { get; set; }

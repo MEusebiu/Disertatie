@@ -4,3 +4,15 @@ C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\Services\obj\Deb
 C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
 C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\Services\obj\Debug\Services.dll
 C:\Users\Emanuel Mihaes\Desktop\Master\Disertatie\UniLibraryCRM\Services\obj\Debug\Services.pdb
+E:\Disertatie\UniProject\Services\bin\Debug\Services.dll
+E:\Disertatie\UniProject\Services\bin\Debug\Services.pdb
+E:\Disertatie\UniProject\Services\bin\Debug\DataContext.dll
+E:\Disertatie\UniProject\Services\bin\Debug\Repository.dll
+E:\Disertatie\UniProject\Services\bin\Debug\EntityFramework.dll
+E:\Disertatie\UniProject\Services\bin\Debug\DataContext.pdb
+E:\Disertatie\UniProject\Services\bin\Debug\DataContext.dll.config
+E:\Disertatie\UniProject\Services\bin\Debug\Repository.pdb
+E:\Disertatie\UniProject\Services\bin\Debug\EntityFramework.xml
+E:\Disertatie\UniProject\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+E:\Disertatie\UniProject\Services\obj\Debug\Services.dll
+E:\Disertatie\UniProject\Services\obj\Debug\Services.pdb

@@ -3,13 +3,29 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Gugi" rel="stylesheet">
     <title>@ViewBag.Title - My ASP.NET Application</title>
     @Styles.Render("~/Content/css")
     @Scripts.Render("~/bundles/modernizr")
-
 </head>
 <body>
+   
     <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="top-header">
+            <div class="logo-header container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <img src="~/Content/Images/book.png" />
+                        <div class="logo-text">UniLibrary</div>
+                    </div>
+                  <div class="col-md-6 loginOptions">
+                      @Html.Partial("_LoginPartial")
+                  </div>
+                </div>
+              
+            </div>
+           
+        </div>
         <div class="container">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -26,10 +42,11 @@
                     <li>@Html.ActionLink("Genres", "Index", "Genres")</li>
                     <li>@Html.ActionLink("Favourites", "Index", "Favourites")</li>
                 </ul>
-                @Html.Partial("_LoginPartial")
+               
             </div>
         </div>
     </div>
+    <div class="clearfix"></div>
     <div class="container body-content">
         @RenderBody()
         <hr />

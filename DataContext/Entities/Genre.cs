@@ -2,10 +2,11 @@
 
 namespace DataContext.Entities
 {
-    public class Genre : Entity
+    public class Genre : IEntity
     {
-        public string Name { get; set; }
+        public int Id { get; set; }
 
+        public string Name { get; set; }
         public ICollection<Author> Authors { get; set; }
         public ICollection<Book> Books { get; set; }
     }

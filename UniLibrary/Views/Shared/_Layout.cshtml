@@ -4,9 +4,13 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css?family=Gugi" rel="stylesheet">
-    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+    <link rel="shortcut icon" href="#" />
+    <title>@ViewBag.Title - UniLibrary</title>
     @Styles.Render("~/Content/css")
     @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/appScripts")
+    @Styles.Render("~/Content/fontawesome")
 </head>
 <body>
    
@@ -15,8 +19,10 @@
             <div class="logo-header container">
                 <div class="row">
                     <div class="col-md-6">
-                        <img src="~/Content/Images/book.png" />
-                        <div class="logo-text">UniLibrary</div>
+                        <a class="clickable-logo" href='@Url.Action("Index","Home")'>
+                            <img src="~/Content/Images/book.png" />
+                            <div class="logo-text">UniLibrary</div>
+                        </a>
                     </div>
                   <div class="col-md-6 loginOptions">
                       @Html.Partial("_LoginPartial")
@@ -33,7 +39,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                @Html.ActionLink("UniLibrary", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                @Html.ActionLink("Online Bibliotheca", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
@@ -41,8 +47,8 @@
                     <li>@Html.ActionLink("Authors", "Index", "Authors")</li>
                     <li>@Html.ActionLink("Genres", "Index", "Genres")</li>
                     <li>@Html.ActionLink("Favourites", "Index", "Favourites")</li>
+                    <li>@Html.ActionLink("Contact", "Index", "Contact")</li>
                 </ul>
-               
             </div>
         </div>
     </div>
@@ -51,7 +57,7 @@
         @RenderBody()
         <hr />
         <footer>
-            <p>&copy; @DateTime.Now.Year - UniLibrary</p>
+            <p>&copy; @DateTime.Now.Year - UniLibrary - Mihaes Eusebiu</p>
         </footer>
     </div>
 

@@ -36,3 +36,6 @@ E:\Disertatie\UniProject\DataContext\obj\Debug\DataContext.Migrations.AddedRoles
 E:\Disertatie\UniProject\DataContext\obj\Debug\DataContext.csproj.GenerateResource.Cache
 E:\Disertatie\UniProject\DataContext\obj\Debug\DataContext.dll
 E:\Disertatie\UniProject\DataContext\obj\Debug\DataContext.pdb
+E:\Disertatie\UniProject\DataContext\obj\Debug\DataContext.csprojResolveAssemblyReference.cache
+E:\Disertatie\UniProject\DataContext\obj\Debug\DataContext.Migrations.AddedNewProperties.resources
+E:\Disertatie\UniProject\DataContext\obj\Debug\DataContext.Migrations.AddedPublisherToBook.resources

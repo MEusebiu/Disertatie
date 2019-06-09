@@ -50,6 +50,10 @@ namespace UniLibrary.Controllers
         public ActionResult Edit(int bookId)
         {
             var book = bookService.FindBookById(bookId);
+
+            ViewBag.Genres = genreService.GetAllGenres();
+            ViewBag.Authors = authorService.GetAllAuthors();
+
             return View(book);
         }
 
@@ -74,6 +78,12 @@ namespace UniLibrary.Controllers
             bookService.DeleteBook(book);
 
             return RedirectToAction("Index");
+        }
+
+        public ActionResult SingleBook(int bookId)
+        {
+            var book = bookService.FindBookById(bookId);
+            return View(book);
         }
     }
 }

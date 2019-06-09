@@ -70,6 +70,14 @@
     <Compile Include="Migrations\201905281749073_AddedRolesToModels.Designer.cs">
       <DependentUpon>201905281749073_AddedRolesToModels.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201906020949075_AddedNewProperties.cs" />
+    <Compile Include="Migrations\201906020949075_AddedNewProperties.Designer.cs">
+      <DependentUpon>201906020949075_AddedNewProperties.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201906080930330_AddedPublisherToBook.cs" />
+    <Compile Include="Migrations\201906080930330_AddedPublisherToBook.Designer.cs">
+      <DependentUpon>201906080930330_AddedPublisherToBook.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -86,6 +94,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201905281749073_AddedRolesToModels.resx">
       <DependentUpon>201905281749073_AddedRolesToModels.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201906020949075_AddedNewProperties.resx">
+      <DependentUpon>201906020949075_AddedNewProperties.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201906080930330_AddedPublisherToBook.resx">
+      <DependentUpon>201906080930330_AddedPublisherToBook.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

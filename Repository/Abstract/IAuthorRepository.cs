@@ -12,6 +12,7 @@ namespace Repository.Abstract
         IEnumerable<Author> GetAllAuthors();
         void AddAuthor(Author author);
         void UpdateAuthor(Author author);
+        void DeleteAuthor(Author author);
         Author GetAuthorById(int authorId);
         void Save();
     }

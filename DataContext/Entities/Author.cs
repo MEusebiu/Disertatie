@@ -9,6 +9,8 @@ namespace DataContext.Entities
 
         public string FirstName { get; set; }
         public string LastName { get; set; }
+        public int Born { get; set; }
+        public string City { get; set; }
 
         public ICollection<Book> Books { get; set; }
         public ICollection<Genre> Genres { get; set; }

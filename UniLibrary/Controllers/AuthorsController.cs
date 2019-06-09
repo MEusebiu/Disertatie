@@ -63,5 +63,12 @@ namespace UniLibrary.Controllers
                 return View(author);
             }
         }
+
+        public ActionResult Delete(int authorId)
+        {
+            var author = authorService.GetAuthorById(authorId);
+            authorService.DeleteAuthor(author);
+            return RedirectToAction("Index");
+        }
     }
 }

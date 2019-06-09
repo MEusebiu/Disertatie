@@ -42,8 +42,9 @@ textarea {
 }
 
 .loginOptions a {
-    margin-top: 8px;
+    margin-top: 15px;
     color: #3239a3 !important;
+    font-family: 'Gugi', cursive;
 }
 
 .loginOptions .navbar-nav > li > a:hover {
@@ -51,10 +52,140 @@ textarea {
 }
 
 .site-container{
-    padding:10px 0;
+    padding:20px 35px;
+    border:1px solid #ccc;
 }
 
 .actions-btn{
     margin:10px 0;
 }
 
+.navbar-inverse {
+    background-image: linear-gradient(rgb(58,123,213),rgb(58,96,115));
+    border: 0;
+}
+
+.navbar-inverse .navbar-nav > li > a, .navbar-inverse .navbar-brand {
+    color: white;
+}
+
+.clickable-logo:hover{
+    text-decoration:none;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.control-label{
+    text-align:left;
+}
+
+.form-control{
+    min-width:400px;
+}
+
+.page-title{
+    font-size:20px;
+    margin-top:20px;
+    font-style:italic;
+}
+
+footer p{
+    text-align:center;
+}
+
+.bordered-entity {
+    width: 100%;
+    border: 1px solid #e5e5e5;
+    margin: 10px 0;
+    height: 300px;
+    border-radius: 4px;
+    padding-top: 15px;
+}
+
+.entity-rows{
+    margin:10px;
+}
+
+.bookImage {
+    width: 120px;
+    height: 150px;
+    background: blue;
+    display: block;
+    margin: auto;
+}
+
+#homepageCarouselControls img {
+    object-fit: cover;
+    width: 100%;
+    height: 550px;
+}
+
+.homepage-authors img{
+    height:130px;
+    border-radius:100px;
+    border:2px solid #ccc;
+    width:auto;
+    padding:5px;
+    margin-left:10px
+}
+
+.header-class-title {
+    font-size: 30px;
+    vertical-align: middle;
+    font-family: 'Gugi', cursive;
+    font-style:italic;
+    text-align:center;
+}
+
+.header-class-info {
+    height: 160px;
+    padding:0 20px;
+    display: flex;
+    align-items: center;
+    background-image: linear-gradient(#F2F2F2,#DBDBDB,#EAEAEA );
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+.book-author {
+    //text-transform: uppercase;
+    text-align:center;
+}
+
+.singleBookDetails > div{
+    font-size:17px;
+}
+
+.singleBookPhoto{
+    text-align:center;
+}
+
+.singleBookPhoto img {
+    height: 380px;
+    width: 300px;
+}
+
+.book-title{
+    font-size:22px!important;
+}
+
+.book-additional-info{
+    padding:20px 0;
+}
+
+.book-additional-info > div{
+    margin-top:10px;
+}
+
+.singleBookContainer{
+    padding:30px;
+}
+
+.button-right{
+    text-align:right;
+    margin-top:20px;
+}

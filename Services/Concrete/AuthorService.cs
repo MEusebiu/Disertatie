@@ -23,6 +23,11 @@ namespace Services.Concrete
             authorRepo.AddAuthor(author);
         }
 
+        public void DeleteAuthor(Author author)
+        {
+            authorRepo.DeleteAuthor(author);
+        }
+
         public IEnumerable<Author> GetAllAuthors()
         {
             return authorRepo.GetAllAuthors();

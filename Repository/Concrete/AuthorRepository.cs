@@ -25,6 +25,12 @@ namespace Repository.Concrete
             Save();
         }
 
+        public void DeleteAuthor(Author author)
+        {
+            db.Authors.Remove(author);
+            Save();
+        }
+
         public IEnumerable<Author> GetAllAuthors()
         {
             return db.Authors.ToList();

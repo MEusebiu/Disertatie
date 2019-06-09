@@ -1,34 +1,72 @@
 ﻿@model IEnumerable<DataContext.Entities.Book>
 
+@{ 
+    ViewBag.Title = "Books";
+}
+
+
 <div class="site-container">
     @Html.ActionLink("Add Book", "Create", null, htmlAttributes: new { @class = "btn btn-primary actions-btn" })
+    <div class="clearfix"></div>
 
-    <table class="table">
-        <tr>
-            <th> @Html.Label("Author") </th>
-            <th> @Html.Label("Genre") </th>
-            <th> @Html.Label("Title") </th>
-            <th> @Html.Label("Description") </th>
-            <th> @Html.Label("Release") </th>
-            <th></th>
-        </tr>
-
+    <div class="row">
         @foreach (var item in Model)
         {
-            <tr>
-                <td> @item.Author.FirstName </td>
-                <td> @item.Genre.Name </td>
-                <td> @item.Title </td>
-                <td> @item.Description </td>
-                <td> @item.ReleaseDate </td>
-                <td>
-                    @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
-                    @Html.ActionLink("Delete", "Delete", new { id = item.Id })
-                </td>
-            </tr>
+            <a href="@Url.Action("SingleBook", "Books", new {bookId = item.Id})">
+                <div class="col-md-3 booksContainer" id="bookContainer_@item.Id">
+                    <div class="bordered-entity">
+                        <img class="bookImage" src="#" />
+
+                        <div class="row entity-rows">
+                            <div class="col-md-3">Title:</div>
+                            <div class="col-md-9">@item.Title</div>
+                        </div>
+
+                        <div class="row entity-rows">
+                            <div class="col-md-3">Author:</div>
+                            <div class="col-md-9">@item.Author</div>
+                        </div>
+
+                        <div class="row entity-rows">
+                            <div class="col-md-3">Genre:</div>
+                            <div class="col-md-9">@item.Genre</div>
+                        </div>
+                    </div>
+                </div>
+            </a>
         }
-
-    </table>
-
+    </div>
 </div>
+
+<div class="modalInfo">
+    @Html.Partial("DeleteBookModal");
+</div>
+
+@*<table class="table">
+    <tr>
+        <th> @Html.Label("Title") </th>
+        <th> @Html.Label("Genre") </th>
+        <th> @Html.Label("Author") </th>
+        <th> @Html.Label("Description") </th>
+        <th> @Html.Label("Release") </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td> @item.Title </td>
+            <td> @item.Genre.Name </td>
+            <td> @item.Author.LastName @item.Author.FirstName </td>
+            <td> @item.Description </td>
+            <td> @item.Release </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { bookId = item.Id })
+                <button id="deleteBook_@item.Id" class="btn-primary deletesBook" type="button">Delete</button>
+            </td>
+        </tr>
+    }
+</table>*@
+
+
 

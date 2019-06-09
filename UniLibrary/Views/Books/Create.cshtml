@@ -1,11 +1,17 @@
 ﻿@model DataContext.Entities.Book
 
+@{ 
+    ViewBag.Title = "Book";
+}
+
 @using (Html.BeginForm()) 
 {
     @Html.AntiForgeryToken()
-    
+    <div class="page-title">
+        Create Book
+    </div>
+
     <div class="form-horizontal">
-        <h4>Book</h4>
         <hr />
         @Html.ValidationSummary(true, "", new { @class = "text-danger" })
         <div class="form-group">
@@ -17,26 +23,16 @@
         </div>
 
         <div class="form-group">
-            @Html.LabelFor(model => model.Description, htmlAttributes: new { @class = "control-label col-md-2" })
+            @Html.LabelFor(model => model.Release,"Release Year", htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
-                @Html.EditorFor(model => model.Description, new { htmlAttributes = new { @class = "form-control" } })
-                @Html.ValidationMessageFor(model => model.Description, "", new { @class = "text-danger" })
-            </div>
-        </div>
-
-        <div class="form-group">
-            @Html.LabelFor(model => model.ReleaseDate,"Released", htmlAttributes: new { @class = "control-label col-md-2" })
-            <div class="col-md-10">
-                @Html.EditorFor(model => model.ReleaseDate, new { htmlAttributes = new { @class = "form-control" } })
-                @Html.ValidationMessageFor(model => model.ReleaseDate, "", new { @class = "text-danger" })
+                @Html.EditorFor(model => model.Release, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Release, "", new { @class = "text-danger" })
             </div>
         </div>
 
         <div class="form-group">
             @Html.LabelFor(model => model.GenreId, "Genre", htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
-                @*@Html.DropDownList("GenreId", null, htmlAttributes: new { @class = "form-control" })
-                @Html.DropDownListFor(x => x.accountId, new SelectList(ViewBag.Accounts, "AccountID", "AccountName"))*@
                 @Html.DropDownListFor(model=>model.GenreId, new SelectList(ViewBag.Genres, "Id", "Name"), htmlAttributes: new { @class = "form-control" })
                 @Html.ValidationMessageFor(model => model.GenreId, "", new { @class = "text-danger" })
             </div>
@@ -45,9 +41,24 @@
         <div class="form-group">
             @Html.LabelFor(model => model.AuthorId, "Author", htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
-                @*@Html.DropDownList("AuthorId", null, htmlAttributes: new { @class = "form-control" })*@
                 @Html.DropDownListFor(model=>model.AuthorId, new SelectList(ViewBag.Authors, "Id","FirstName"), htmlAttributes: new { @class="form-control"})
                 @Html.ValidationMessageFor(model => model.AuthorId, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Pages, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Pages, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Pages, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Description, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextAreaFor(model => model.Description, new { @class = "form-control", @rows = 4 })
+                @Html.ValidationMessageFor(model => model.Description, "", new { @class = "text-danger" })
             </div>
         </div>
 

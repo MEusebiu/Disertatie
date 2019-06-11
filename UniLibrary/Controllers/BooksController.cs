@@ -43,6 +43,8 @@ namespace UniLibrary.Controllers
             }
             else
             {
+                ViewBag.Genres = genreService.GetAllGenres();
+                ViewBag.Authors = authorService.GetAllAuthors();
                 return View(book);
             }
         }

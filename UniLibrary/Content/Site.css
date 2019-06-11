@@ -56,10 +56,6 @@ textarea {
     border:1px solid #ccc;
 }
 
-.actions-btn{
-    margin:10px 0;
-}
-
 .navbar-inverse {
     background-image: linear-gradient(rgb(58,123,213),rgb(58,96,115));
     border: 0;
@@ -88,8 +84,7 @@ input[type=number]::-webkit-outer-spin-button {
 }
 
 .page-title{
-    font-size:20px;
-    margin-top:20px;
+    font-size:21px;
     font-style:italic;
 }
 
@@ -104,6 +99,8 @@ footer p{
     height: 300px;
     border-radius: 4px;
     padding-top: 15px;
+    /*background-image: liniar-gradient(#D3CCE3,#E9E4F0,#E9E4F0);*/
+    /*background-image: linear-gradient(to left,#f9f9f9,#eaeaea,#f9f9f9);*/
 }
 
 .entity-rows{
@@ -116,6 +113,10 @@ footer p{
     background: blue;
     display: block;
     margin: auto;
+}
+
+.booksContainer{
+    color:black;
 }
 
 #homepageCarouselControls img {
@@ -187,5 +188,13 @@ footer p{
 
 .button-right{
     text-align:right;
-    margin-top:20px;
 }
+
+.crud-book-layout{
+   
+}
+
+.every-page-header{
+    padding-bottom:20px;
+}
+

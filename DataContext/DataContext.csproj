@@ -78,6 +78,14 @@
     <Compile Include="Migrations\201906080930330_AddedPublisherToBook.Designer.cs">
       <DependentUpon>201906080930330_AddedPublisherToBook.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201906090555455_ChangedNotNullablePlusName.cs" />
+    <Compile Include="Migrations\201906090555455_ChangedNotNullablePlusName.Designer.cs">
+      <DependentUpon>201906090555455_ChangedNotNullablePlusName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201906090643372_ChangedBornFromIntToString.cs" />
+    <Compile Include="Migrations\201906090643372_ChangedBornFromIntToString.Designer.cs">
+      <DependentUpon>201906090643372_ChangedBornFromIntToString.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -100,6 +108,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201906080930330_AddedPublisherToBook.resx">
       <DependentUpon>201906080930330_AddedPublisherToBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201906090555455_ChangedNotNullablePlusName.resx">
+      <DependentUpon>201906090555455_ChangedNotNullablePlusName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201906090643372_ChangedBornFromIntToString.resx">
+      <DependentUpon>201906090643372_ChangedBornFromIntToString.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

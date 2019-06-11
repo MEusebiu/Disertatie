@@ -39,3 +39,5 @@ E:\Disertatie\UniProject\DataContext\obj\Debug\DataContext.pdb
 E:\Disertatie\UniProject\DataContext\obj\Debug\DataContext.csprojResolveAssemblyReference.cache
 E:\Disertatie\UniProject\DataContext\obj\Debug\DataContext.Migrations.AddedNewProperties.resources
 E:\Disertatie\UniProject\DataContext\obj\Debug\DataContext.Migrations.AddedPublisherToBook.resources
+E:\Disertatie\UniProject\DataContext\obj\Debug\DataContext.Migrations.ChangedNotNullablePlusName.resources
+E:\Disertatie\UniProject\DataContext\obj\Debug\DataContext.Migrations.ChangedBornFromIntToString.resources

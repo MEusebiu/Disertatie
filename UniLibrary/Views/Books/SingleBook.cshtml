@@ -4,15 +4,13 @@
     ViewBag.Title = "Book";
 }
 
-<div>
+<div class="site-container">
     <div class="row">
         <div class="page-title col-md-9">Book</div>
         <div class="button-right col-md-3">
             @Html.ActionLink("Edit", "Edit", new { bookId = Model.Id }, new { @class = "btn btn-primary" })
         </div>
     </div>
-   
-
     <hr />
 
    
@@ -28,8 +26,7 @@
 
             <div class="book-author">
                by
-                @Html.DisplayFor(model => model.Author.FirstName)
-                @Html.DisplayFor(model => model.Author.LastName)
+                @Html.DisplayFor(model => model.Author.Name)
             </div>
             <i class="fas fa-heart"></i>
            
@@ -64,13 +61,12 @@
                     @Html.DisplayFor(model => model.Description)
                 </div>
             </div>
-           
+          
         </div>
-
+    
     </div>
-
+    <hr />
+    @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-default" })
 </div>
 
-<p>
-    @Html.ActionLink("Back to List", "Index")
-</p>
+

@@ -45,6 +45,10 @@ namespace UniLibrary
             container.RegisterType<DbContext, UniLibraryDbContext>(new PerThreadLifetimeManager());
             container.RegisterType<IdentityDbContext<ApplicationUser>, ApplicationDbContext>(new PerThreadLifetimeManager());
 
+            container.RegisterType(typeof(IUserStore<>), typeof(UserStore<>));
+            var userStore1 = container.Resolve<IUserStore<ApplicationUser>>();
+
+
             DependencyResolver.SetResolver(new UnityDependencyResolver(container));
         }
     }

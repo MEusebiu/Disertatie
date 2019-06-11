@@ -6,13 +6,16 @@
 
 
 <div class="site-container">
-    @Html.ActionLink("Add Book", "Create", null, htmlAttributes: new { @class = "btn btn-primary actions-btn" })
-    <div class="clearfix"></div>
-
-    <div class="row">
+    <div class="row every-page-header">
+        <div class="page-title col-md-9">Books</div>
+        <div class="button-right col-md-3">
+            @Html.ActionLink("Add Book", "Create", null, htmlAttributes: new { @class = "btn btn-primary actions-btn" })
+        </div>
+    </div>
+    <div class="row ">
         @foreach (var item in Model)
         {
-            <a href="@Url.Action("SingleBook", "Books", new {bookId = item.Id})">
+            <a href="@Url.Action("SingleBook", "Books", new { bookId = item.Id })">
                 <div class="col-md-3 booksContainer" id="bookContainer_@item.Id">
                     <div class="bordered-entity">
                         <img class="bookImage" src="#" />
@@ -24,12 +27,12 @@
 
                         <div class="row entity-rows">
                             <div class="col-md-3">Author:</div>
-                            <div class="col-md-9">@item.Author</div>
+                            <div class="col-md-9">@item.Author.Name</div>
                         </div>
 
                         <div class="row entity-rows">
                             <div class="col-md-3">Genre:</div>
-                            <div class="col-md-9">@item.Genre</div>
+                            <div class="col-md-9">@item.Genre.Name</div>
                         </div>
                     </div>
                 </div>
@@ -39,7 +42,7 @@
 </div>
 
 <div class="modalInfo">
-    @Html.Partial("DeleteBookModal");
+    @Html.Partial("DeleteBookModal")
 </div>
 
 @*<table class="table">

@@ -41,8 +41,10 @@ namespace Repository.Concrete
 
         public void UpdateBook(Book book)
         {
+            //db.Entry(book).State = EntityState.Modified;
+            //Save();
+            db.Set<Book>().Attach(book);
             db.Entry(book).State = EntityState.Modified;
-            Save();
         }
 
         public void Save()
